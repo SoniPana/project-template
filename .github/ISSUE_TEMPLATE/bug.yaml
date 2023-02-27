@@ -24,7 +24,7 @@ body:
       description: >
         バグの概要を記入してください。
       placeholder: >
-        例)- news.pyにてpip installでエラー
+        例)- main.pyにてpip installでエラー
     validations:
       required: true
 
@@ -35,7 +35,7 @@ body:
       description: >
         再現手順やエラーの内容などを記入してください。
       placeholder: >
-        - https://github.com/Geusen/Schedule_Bot/actions/runs/3579455799/jobs/6020667956
+        - https://github.com/Geusen/...
           -  ```run python```の97行目～
     validations:
       required: true
@@ -75,7 +75,7 @@ body:
       description: >
         修正案がある場合は記入してください。
       placeholder: >
-        - [ ] ```/.github/workflows/News.yml```の```pip install opencv==4.60.66```を```pip install opencv==4.6.0.66```に変更
+        - [ ] ```/.github/workflows/main.yml```の```pip install opencv==4.60.66```を```pip install opencv==4.6.0.66```に変更
 
   - type: textarea
     attributes:

@@ -1,6 +1,6 @@
 # 貢献のガイドライン
 
-更新日: 23/01/28
+更新日: 23/01/01
 
 Discussions、issue、PullRequestを利用する場合は、次のガイドラインに従ってください。
 
@@ -16,10 +16,8 @@ Discussions、issue、PullRequestを利用する場合は、次のガイドラ�
 	- 基本的に運営のみ使用
 - 💬一般
 	- 基本的に自由
-	- 水戸一のことなら何でもOKです
 - 🗳️投票
 	- 何かしら投票をします
-	- 時間割Botのことなら何でもOKです
 - 💡要望・提案・不具合
 	- Discussionsに関する要望や提案など
 - 🇶🇦質問
@@ -33,11 +31,11 @@ Discussions、issue、PullRequestを利用する場合は、次のガイドラ�
 
 # 2.Issueについて
 
-時間割Botに関する改善案やバグを報告したい場合はIssueからお願いします。
+改善案やバグを報告したい場合はIssueからお願いします。
 
 ### 注意点
 - Issue作成前
-	- Issueの重複を避ける為に[よくある質問](https://github.com/m1daily/Schedule_Bot/)を読んでください。
+	- Issueの重複を避ける為に[よくある質問](https://github.com)を読んでください。
 	- Issueで検索をして既に似たようなIssueが立てられていないことを確認してください。
 - Issue作成時
 	- 適切なテンプレートを選択してください。

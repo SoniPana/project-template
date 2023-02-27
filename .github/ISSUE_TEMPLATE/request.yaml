@@ -24,7 +24,7 @@ body:
       description: >
         提案の内容を記入してください。
       placeholder: >
-        例)- 月間予定の通知機能の追加
+        例)- ○○機能の追加
     validations:
       required: true
 
@@ -35,8 +35,7 @@ body:
       description: >
         機能提案の目的や理由を記入してください。
       placeholder: >
-        - 月間予定を簡単に把握したい
-          - わざわざ月間予定を見にM1のサイトにいくのが面倒
+        - ○○の効率化
     validations:
       required: true
 
@@ -54,8 +53,7 @@ body:
       description: >
         想定されるタスクを記入してください。
       placeholder: >
-        - [ ] M1のサイトから月間予定を取得する機能の追加
-        - [ ] テキスト(月間予定)の画像化
+        - [ ] ○○の追加
 
   - type: textarea
     attributes:
